@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c97fe0d1cea73ecb",
+        "id": "68ebcae1e4476cb4",
         "type": "tabs",
         "children": [
           {
-            "id": "339b4ad3c69928e6",
+            "id": "5f267a2086e0f72b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicosCTF/2019/Web/Actividad 5/Client-side-again.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicosCTF/2019/Web/Actividad 5/Client-side-again.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicosCTF/2019/Web/Actividad 5/Client-side-again.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PicosCTF/2019/Web/Actividad 5/Client-side-again.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,6 +138,30 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "339b4ad3c69928e6",
-  "lastOpenFiles": []
+  "active": "5f267a2086e0f72b",
+  "lastOpenFiles": [
+    "PicosCTF/Plantilla.md",
+    "PicosCTF/Examen1/23-PW Crack 3.md",
+    "PicosCTF/Examen1/23-PW Crack 2.md",
+    "PicosCTF/Examen1/22-PW Crack 1.md",
+    "PicosCTF/Examen1/21-Glitch Cat.md",
+    "PicosCTF/Examen1/20-fixme2.py.md",
+    "PicosCTF/Examen1/19-fixme1.py.md",
+    "PicosCTF/Examen1/18-Codebook.md",
+    "PicosCTF/Examen1/17-convertme.py.md",
+    "PicosCTF/Examen1/16-runme.py.md",
+    "PicosCTF/Examen1/15-Magikarp Ground Mission.md",
+    "PicosCTF/Examen1/14-Tab, Tab, Attack.md",
+    "PicosCTF/Examen1/13-Static ain't always noise.md",
+    "PicosCTF/Examen1/12-Nice netcat....md",
+    "PicosCTF/Examen1/11-Wave a flag.md",
+    "PicosCTF/Examen1/10-Obedient Cat.md",
+    "PicosCTF/Examen1/01-Lets Warm Up.md",
+    "PicosCTF/Examen1/09-plumbing.md",
+    "PicosCTF/Examen1/08-Based.md",
+    "PicosCTF/Examen1/07-First Grep.md",
+    "PicosCTF/Examen1/06-Bases.md",
+    "PicosCTF/2019/Web/Actividad 5/Client-side-again.md",
+    "PicosCTF/Untitled"
+  ]
 }
