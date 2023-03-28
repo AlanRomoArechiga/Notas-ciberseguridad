@@ -11,11 +11,26 @@
             "id": "5f267a2086e0f72b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PicosCTF/Plantilla.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc48167313994256",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "PicosCTF/Tarea 4. Participación en picoCTF2023/General-Skills/Pasted image 20230318164840.png"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PicosCTF/Tarea 4. Participación en picoCTF2023/General-Skills/Pasted image 20230318164840.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PicosCTF/Tarea 4. Participación en picoCTF2023/General-Skills/Pasted image 20230318164840.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PicosCTF/Tarea 4. Participación en picoCTF2023/General-Skills/Pasted image 20230318164840.png"
+              }
             }
           }
         ]
@@ -138,30 +157,43 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "5f267a2086e0f72b",
+  "active": "bc48167313994256",
   "lastOpenFiles": [
+    "PicosCTF/2019/Forensic/C0rrupted.md",
+    "PicosCTF/Tarea 4. Participación en picoCTF2023/Forensics/02-who is it.md",
+    "PicosCTF/Tarea 4. Participación en picoCTF2023/Forensics/01-hideme.md",
+    "PicosCTF/Tarea 4. Participación en picoCTF2023/Forensics",
+    "PicosCTF/Tarea 4. Participación en picoCTF2023/Cryptography/01-rotation.md",
+    "PicosCTF/Tarea 4. Participación en picoCTF2023/Cryptography/03-HideToSee.md",
+    "PicosCTF/Tarea 4. Participación en picoCTF2023/Cryptography/02 - ReadMyCert.md",
+    "PicosCTF/Tarea 4. Participación en picoCTF2023/Cryptography",
+    "PicosCTF/Tarea 4. Participación en picoCTF2023/Web-Exploitation/Pasted image 20230318171224.png",
+    "PicosCTF/Tarea 4. Participación en picoCTF2023/Web-Exploitation/Pasted image 20230318170954.png",
+    "PicosCTF/Tarea 4. Participación en picoCTF2023/Web-Exploitation/01-MatchTheRegex.md",
+    "PicosCTF/Tarea 4. Participación en picoCTF2023/Web-Exploitation",
+    "PicosCTF/Tarea 4. Participación en picoCTF2023/Reverse-Engineering/04-Ready Gladiator 0.md",
+    "PicosCTF/Tarea 4. Participación en picoCTF2023/Reverse-Engineering/03-timer.md",
+    "PicosCTF/Tarea 4. Participación en picoCTF2023/Reverse-Engineering/02-Safe Opener 2.md",
+    "PicosCTF/Tarea 4. Participación en picoCTF2023/Reverse-Engineering/01-Reverse.md",
+    "PicosCTF/Tarea 4. Participación en picoCTF2023/Reverse-Engineering",
+    "PicosCTF/Tarea 4. Participación en picoCTF2023/General-Skills/Pasted image 20230318164840.png",
+    "PicosCTF/Tarea 4. Participación en picoCTF2023/General-Skills/06-chrono.md",
+    "PicosCTF/Tarea 4. Participación en picoCTF2023/General-Skills/05-useless.md",
+    "PicosCTF/Tarea 4. Participación en picoCTF2023/General-Skills/04-Rules 2023.md",
+    "PicosCTF/Tarea 4. Participación en picoCTF2023/General-Skills/03-Permissions.md",
+    "PicosCTF/Tarea 4. Participación en picoCTF2023/General-Skills/02-repetitions.md",
+    "PicosCTF/Tarea 4. Participación en picoCTF2023/General-Skills/01-money-ware.md",
+    "PicosCTF/Tarea 4. Participación en picoCTF2023/General-Skills",
+    "PicosCTF/Tarea 4. Participación en picoCTF2023/README.md",
+    "PicosCTF/Tarea 4. Participación en picoCTF2023/Plantilla.md",
+    "PicosCTF/2019/Forensic/WhitePages.md",
     "PicosCTF/Plantilla.md",
     "PicosCTF/Examen1/23-PW Crack 3.md",
+    "PicosCTF/2019/Forensic",
     "PicosCTF/Examen1/23-PW Crack 2.md",
     "PicosCTF/Examen1/22-PW Crack 1.md",
     "PicosCTF/Examen1/21-Glitch Cat.md",
     "PicosCTF/Examen1/20-fixme2.py.md",
-    "PicosCTF/Examen1/19-fixme1.py.md",
-    "PicosCTF/Examen1/18-Codebook.md",
-    "PicosCTF/Examen1/17-convertme.py.md",
-    "PicosCTF/Examen1/16-runme.py.md",
-    "PicosCTF/Examen1/15-Magikarp Ground Mission.md",
-    "PicosCTF/Examen1/14-Tab, Tab, Attack.md",
-    "PicosCTF/Examen1/13-Static ain't always noise.md",
-    "PicosCTF/Examen1/12-Nice netcat....md",
-    "PicosCTF/Examen1/11-Wave a flag.md",
-    "PicosCTF/Examen1/10-Obedient Cat.md",
-    "PicosCTF/Examen1/01-Lets Warm Up.md",
-    "PicosCTF/Examen1/09-plumbing.md",
-    "PicosCTF/Examen1/08-Based.md",
-    "PicosCTF/Examen1/07-First Grep.md",
-    "PicosCTF/Examen1/06-Bases.md",
-    "PicosCTF/2019/Web/Actividad 5/Client-side-again.md",
     "PicosCTF/Untitled"
   ]
 }
