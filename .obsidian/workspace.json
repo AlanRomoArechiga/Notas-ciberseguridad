@@ -8,29 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5f267a2086e0f72b",
+            "id": "b3ce3b98446b49c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicosCTF/Plantilla.md",
+                "file": "PicosCTF/2019/Forensic/Parte 3/Webnet1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bc48167313994256",
+            "id": "c1c758d59f5e9d19",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "PicosCTF/Tarea 4. Participación en picoCTF2023/General-Skills/Pasted image 20230318164840.png"
+                "file": "PicosCTF/2019/Forensic/Parte 3/Matryoshka doll.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ebcf9bef84f79dd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicosCTF/2019/Forensic/Parte 3/tunn3l_v1s10n.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99111ec45ef63cd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicosCTF/2019/Forensic/Parte 3/MacroHard WeakEdge.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -80,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "081ad0c2233b07f7",
@@ -96,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicosCTF/Tarea 4. Participación en picoCTF2023/General-Skills/Pasted image 20230318164840.png",
+                "file": "PicosCTF/2019/Forensic/Parte 3/MacroHard WeakEdge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicosCTF/Tarea 4. Participación en picoCTF2023/General-Skills/Pasted image 20230318164840.png",
+                "file": "PicosCTF/2019/Forensic/Parte 3/MacroHard WeakEdge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicosCTF/Tarea 4. Participación en picoCTF2023/General-Skills/Pasted image 20230318164840.png"
+                "file": "PicosCTF/2019/Forensic/Parte 3/MacroHard WeakEdge.md"
               }
             }
           }
@@ -157,9 +183,31 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "bc48167313994256",
+  "active": "99111ec45ef63cd7",
   "lastOpenFiles": [
-    "PicosCTF/2019/Forensic/C0rrupted.md",
+    "PicosCTF/2019/Forensic/Parte 3/Matryoshka doll.md",
+    "PicosCTF/Plantilla.md",
+    "PicosCTF/2019/Forensic/Parte 3/MacroHard WeakEdge.md",
+    "PicosCTF/2019/Forensic/Parte 3/tunn3l_v1s10n.md",
+    "Plantilla.md",
+    "PicosCTF/2019/Forensic/Parte 3/Webnet1.md",
+    "PicosCTF/2019/Forensic/Parte 3/WebNet0.md",
+    "PicosCTF/2019/Forensic/Parte 2/Shark on wire 2.md",
+    "PicosCTF/2019/Forensic/Parte 3",
+    "PicosCTF/2019/Forensic/Parte 2/M00nwalk.md",
+    "PicosCTF/2019/Forensic/Parte 2/like1000.md",
+    "PicosCTF/2019/Forensic/Parte 2/C0rrupted.md",
+    "PicosCTF/2019/Forensic/Parte 2/WhitePages.md",
+    "PicosCTF/2019/Forensic/Parte 1/What Lies Within.md",
+    "PicosCTF/2019/Forensic/Parte 2",
+    "PicosCTF/2019/Forensic/Parte 1/Extensions.md",
+    "PicosCTF/2019/Forensic/Parte 1/Shark on wire 1.md",
+    "PicosCTF/2019/Forensic/Parte 1/So Meta.md",
+    "PicosCTF/2019/Forensic/Parte 1/Glory of the Garden.md",
+    "Untitled.md",
+    "PicosCTF/2019/Forensic/Parte 1",
+    "+",
+    "PicosCTF/Tarea 4. Participación en picoCTF2023/General-Skills/Pasted image 20230318164840.png",
     "PicosCTF/Tarea 4. Participación en picoCTF2023/Forensics/02-who is it.md",
     "PicosCTF/Tarea 4. Participación en picoCTF2023/Forensics/01-hideme.md",
     "PicosCTF/Tarea 4. Participación en picoCTF2023/Forensics",
@@ -173,27 +221,8 @@
     "PicosCTF/Tarea 4. Participación en picoCTF2023/Web-Exploitation",
     "PicosCTF/Tarea 4. Participación en picoCTF2023/Reverse-Engineering/04-Ready Gladiator 0.md",
     "PicosCTF/Tarea 4. Participación en picoCTF2023/Reverse-Engineering/03-timer.md",
-    "PicosCTF/Tarea 4. Participación en picoCTF2023/Reverse-Engineering/02-Safe Opener 2.md",
-    "PicosCTF/Tarea 4. Participación en picoCTF2023/Reverse-Engineering/01-Reverse.md",
     "PicosCTF/Tarea 4. Participación en picoCTF2023/Reverse-Engineering",
-    "PicosCTF/Tarea 4. Participación en picoCTF2023/General-Skills/Pasted image 20230318164840.png",
-    "PicosCTF/Tarea 4. Participación en picoCTF2023/General-Skills/06-chrono.md",
-    "PicosCTF/Tarea 4. Participación en picoCTF2023/General-Skills/05-useless.md",
-    "PicosCTF/Tarea 4. Participación en picoCTF2023/General-Skills/04-Rules 2023.md",
-    "PicosCTF/Tarea 4. Participación en picoCTF2023/General-Skills/03-Permissions.md",
-    "PicosCTF/Tarea 4. Participación en picoCTF2023/General-Skills/02-repetitions.md",
-    "PicosCTF/Tarea 4. Participación en picoCTF2023/General-Skills/01-money-ware.md",
     "PicosCTF/Tarea 4. Participación en picoCTF2023/General-Skills",
-    "PicosCTF/Tarea 4. Participación en picoCTF2023/README.md",
-    "PicosCTF/Tarea 4. Participación en picoCTF2023/Plantilla.md",
-    "PicosCTF/2019/Forensic/WhitePages.md",
-    "PicosCTF/Plantilla.md",
-    "PicosCTF/Examen1/23-PW Crack 3.md",
-    "PicosCTF/2019/Forensic",
-    "PicosCTF/Examen1/23-PW Crack 2.md",
-    "PicosCTF/Examen1/22-PW Crack 1.md",
-    "PicosCTF/Examen1/21-Glitch Cat.md",
-    "PicosCTF/Examen1/20-fixme2.py.md",
-    "PicosCTF/Untitled"
+    "PicosCTF/2019/Forensic"
   ]
 }

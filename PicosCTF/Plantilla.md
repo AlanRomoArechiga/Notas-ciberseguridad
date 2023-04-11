@@ -15,6 +15,7 @@
 ```
 
 ## Bandera
+
 picoCTF{}
 
 ## Notas adicionales
