@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "30b139bca9f89065",
+        "id": "d71d0f50e5a5d034",
         "type": "tabs",
         "children": [
           {
-            "id": "9908de93d96777e3",
+            "id": "af2ee921695a77d8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicosCTF/2019/Cryptografía/Actividad 12/rsa-pop-quiz.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicosCTF/2019/Cryptografía/Actividad 12/rsa-pop-quiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicosCTF/2019/Cryptografía/Actividad 12/rsa-pop-quiz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PicosCTF/2019/Cryptografía/Actividad 12/rsa-pop-quiz.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -154,12 +146,26 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8937d2886a33815f",
+  "active": "af2ee921695a77d8",
   "lastOpenFiles": [
+    "PicosCTF/Actividad 13/2023/ReadMyCert.md",
+    "PicosCTF/Plantilla.md",
+    "PicosCTF/Actividad 13/2023/HideToSee.md",
+    "PicosCTF/Actividad 13/2023",
+    "PicosCTF/Actividad 13/2022/basic-mod1.md",
+    "Plantilla.md",
+    "PicosCTF/Actividad 13/2021/Pixelated.md",
+    "PicosCTF/Actividad 13/2022",
+    "PicosCTF/Actividad 13/2021/Untitled",
+    "PicosCTF/Actividad 13/2021/Mind your Ps and Qs.md",
+    "PicosCTF/2019/Cryptografía/Actividad 12/rsa-pop-quiz.md",
+    "PicosCTF/Actividad 13/2021",
+    "PicosCTF/Actividad 13/Nueva carpeta",
+    "PicosCTF/Actividad 13",
+    "PicosCTF/Nueva carpeta",
     "PicosCTF/2019/Cryptografía/Actividad 12/Mini RSA.md",
     "PicosCTF/2019/Cryptografía/Actividad 12/b00tl3gRSA2.md",
     "PicosCTF/2019/Reversing/Actividad 15/asm3.md",
-    "PicosCTF/Plantilla.md",
     "PicosCTF/2019/Reversing/Actividad 15/asm1.md",
     "PicosCTF/2019/Reversing/Actividad 15/asm2.md",
     "PicosCTF/2019/Reversing/vault-door-4.md",
@@ -168,7 +174,6 @@
     "PicosCTF/2019/Reversing/vault-door-1.md",
     "PicosCTF/2019/Reversing/vault-door-training.md",
     "Untitled.md",
-    "PicosCTF/2019/Cryptografía/Actividad 12/rsa-pop-quiz.md",
     "PicosCTF/2019/Reversing",
     "PicosCTF/2019/Cryptografía/Actividad 11/Tapping.md",
     "PicosCTF/2019/Cryptografía/Actividad 11/waves over lambda.md",
@@ -178,21 +183,8 @@
     "PicosCTF/2019/Cryptografía/Actividad 11/Easy 1.md",
     "PicosCTF/2019/Cryptografía/Actividad 11/The numbers.md",
     "PicosCTF/2019/Forensic/Parte 3/MacroHard WeakEdge.md",
-    "PicosCTF/2019/Forensic/Parte 3/tunn3l_v1s10n.md",
-    "PicosCTF/2019/Forensic/Parte 3/Matryoshka doll.md",
-    "PicosCTF/2019/Forensic/Parte 3/Webnet1.md",
     "PicosCTF/2019/Cryptografía/Actividad 12",
-    "PicosCTF/2019/Cryptografía/Actividad 11",
-    "PicosCTF/2019/Cryptografía",
-    "Plantilla.md",
-    "PicosCTF/2019/Forensic/Parte 3/WebNet0.md",
-    "PicosCTF/2019/Forensic/Parte 2/Shark on wire 2.md",
-    "PicosCTF/2019/Forensic/Parte 3",
-    "PicosCTF/2019/Forensic/Parte 2",
-    "PicosCTF/2019/Forensic/Parte 1",
-    "+",
     "PicosCTF/Tarea 4. Participación en picoCTF2023/General-Skills/Pasted image 20230318164840.png",
-    "PicosCTF/Tarea 4. Participación en picoCTF2023/Forensics",
     "PicosCTF/Tarea 4. Participación en picoCTF2023/Web-Exploitation/Pasted image 20230318171224.png",
     "PicosCTF/Tarea 4. Participación en picoCTF2023/Web-Exploitation/Pasted image 20230318170954.png"
   ]
