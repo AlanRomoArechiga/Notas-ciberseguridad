@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "799a6fe16e3758d3",
+        "id": "5bdbf7405d9e1702",
         "type": "tabs",
         "children": [
           {
-            "id": "ebe296bd9b4ceb21",
+            "id": "9a32d0497ffec479",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PicosCTF/Examen2/Pico CTF 2022 - Forensic/St3g0...md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PicosCTF/Examen2/Pico CTF 2022 - Forensic/St3g0...md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PicosCTF/Examen2/Pico CTF 2022 - Forensic/St3g0...md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PicosCTF/Examen2/Pico CTF 2022 - Forensic/St3g0...md"
+              }
             }
           }
         ]
@@ -146,44 +154,44 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ebe296bd9b4ceb21",
+  "active": "9a32d0497ffec479",
   "lastOpenFiles": [
+    "PicosCTF/Plantilla.md",
+    "PicosCTF/Examen2/Pico CTF 2022 - Forensic/St3g0...md",
+    "PicosCTF/Examen2/Pico CTF 2022 - Forensic/Redaction gone wrong.md",
+    "PicosCTF/Examen2/Pico CTF 2022 - Forensic/Packets Primer.md",
+    "PicosCTF/Examen2/Pico CTF 2022 - Forensic/Lookey here.md",
+    "PicosCTF/Examen2/Pico CTF 2022 - Forensic/Enhance!.md",
+    "PicosCTF/Examen2/Pico CTF 2021 - Forensic/Wireshark doo dooo do doo...md",
+    "Untitled.md",
+    "PicosCTF/Examen2/Pico CTF 2022 - Forensic",
+    "PicosCTF/Examen2/Pico CTF 2021 - Forensic/information.md",
+    "Plantilla.md",
+    "PicosCTF/Examen2/Pico CTF 2022 - Web/SQLLite.md",
+    "PicosCTF/Examen2/Pico CTF 2021 - Forensic",
+    "PicosCTF/Examen2/Pico CTF 2022 - Web/Untitled",
+    "PicosCTF/Examen2/Pico CTF 2022 - Web/SQL Direct.md",
+    "PicosCTF/Examen2/Pico CTF 2022 - Web/Secrets.md",
+    "PicosCTF/Examen2/Pico CTF 2022 - Web/Roboto Sansitled.md",
+    "PicosCTF/Examen2/Pico CTF 2022 - Web/Power Cookie.md",
+    "PicosCTF/Examen2/Pico CTF 2022 - Web/Forbidden Paths.md",
+    "PicosCTF/Examen2/Pico CTF 2022 - Web/Search Source.md",
+    "PicosCTF/Examen2/Pico CTF 2022 - Web/Local Authority.md",
+    "PicosCTF/Examen2/Pico CTF 2022 - Web/Inspect HTML.md",
+    "PicosCTF/Examen2/Pico CTF 2022 - Web/Includes.md",
+    "PicosCTF/2019/Actividad 15/asm1.md",
+    "PicosCTF/Examen2/Pico CTF 2022 - Web",
+    "PicosCTF/Examen2",
+    "PicosCTF/2019/Actividad 15/asm3.md",
+    "PicosCTF/2019/Actividad 15/asm2.md",
     "PicosCTF/2019/Reversing/vault-door-1.md",
     "PicosCTF/2019/Reversing/vault-door-3.md",
     "PicosCTF/2019/Reversing/vault-door-4.md",
-    "PicosCTF/2019/Reversing/vault-door-training.md",
-    "PicosCTF/Actividad 13/2023/ReadMyCert.md",
-    "PicosCTF/Plantilla.md",
-    "PicosCTF/Actividad 13/2023/HideToSee.md",
     "PicosCTF/Actividad 13/2023",
-    "PicosCTF/Actividad 13/2022/basic-mod1.md",
-    "Plantilla.md",
-    "PicosCTF/Actividad 13/2021/Pixelated.md",
     "PicosCTF/Actividad 13/2022",
     "PicosCTF/Actividad 13/2021/Untitled",
-    "PicosCTF/Actividad 13/2021/Mind your Ps and Qs.md",
-    "PicosCTF/2019/Cryptografía/Actividad 12/rsa-pop-quiz.md",
     "PicosCTF/Actividad 13/2021",
     "PicosCTF/Actividad 13/Nueva carpeta",
-    "PicosCTF/Actividad 13",
-    "PicosCTF/Nueva carpeta",
-    "PicosCTF/2019/Cryptografía/Actividad 12/Mini RSA.md",
-    "PicosCTF/2019/Cryptografía/Actividad 12/b00tl3gRSA2.md",
-    "PicosCTF/2019/Actividad 15/asm3.md",
-    "PicosCTF/2019/Actividad 15/asm1.md",
-    "PicosCTF/2019/Actividad 15/asm2.md",
-    "PicosCTF/2019/Actividad 15",
-    "Untitled.md",
-    "PicosCTF/2019/Reversing",
-    "PicosCTF/2019/Cryptografía/Actividad 11/Tapping.md",
-    "PicosCTF/2019/Cryptografía/Actividad 11/waves over lambda.md",
-    "PicosCTF/2019/Cryptografía/Actividad 11/la cifra de.md",
-    "PicosCTF/2019/Cryptografía/Actividad 11/caesar.md",
-    "PicosCTF/2019/Cryptografía/Actividad 11/13.md",
-    "PicosCTF/2019/Cryptografía/Actividad 11/Easy 1.md",
-    "PicosCTF/2019/Cryptografía/Actividad 11/The numbers.md",
-    "PicosCTF/2019/Forensic/Parte 3/MacroHard WeakEdge.md",
-    "PicosCTF/2019/Cryptografía/Actividad 12",
     "PicosCTF/Tarea 4. Participación en picoCTF2023/General-Skills/Pasted image 20230318164840.png",
     "PicosCTF/Tarea 4. Participación en picoCTF2023/Web-Exploitation/Pasted image 20230318171224.png",
     "PicosCTF/Tarea 4. Participación en picoCTF2023/Web-Exploitation/Pasted image 20230318170954.png"
