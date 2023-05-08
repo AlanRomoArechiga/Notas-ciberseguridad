@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d71d0f50e5a5d034",
+        "id": "799a6fe16e3758d3",
         "type": "tabs",
         "children": [
           {
-            "id": "af2ee921695a77d8",
+            "id": "ebe296bd9b4ceb21",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -146,8 +146,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "af2ee921695a77d8",
+  "active": "ebe296bd9b4ceb21",
   "lastOpenFiles": [
+    "PicosCTF/2019/Reversing/vault-door-1.md",
+    "PicosCTF/2019/Reversing/vault-door-3.md",
+    "PicosCTF/2019/Reversing/vault-door-4.md",
+    "PicosCTF/2019/Reversing/vault-door-training.md",
     "PicosCTF/Actividad 13/2023/ReadMyCert.md",
     "PicosCTF/Plantilla.md",
     "PicosCTF/Actividad 13/2023/HideToSee.md",
@@ -165,14 +169,10 @@
     "PicosCTF/Nueva carpeta",
     "PicosCTF/2019/Cryptografía/Actividad 12/Mini RSA.md",
     "PicosCTF/2019/Cryptografía/Actividad 12/b00tl3gRSA2.md",
-    "PicosCTF/2019/Reversing/Actividad 15/asm3.md",
-    "PicosCTF/2019/Reversing/Actividad 15/asm1.md",
-    "PicosCTF/2019/Reversing/Actividad 15/asm2.md",
-    "PicosCTF/2019/Reversing/vault-door-4.md",
-    "PicosCTF/2019/Reversing/Actividad 15",
-    "PicosCTF/2019/Reversing/vault-door-3.md",
-    "PicosCTF/2019/Reversing/vault-door-1.md",
-    "PicosCTF/2019/Reversing/vault-door-training.md",
+    "PicosCTF/2019/Actividad 15/asm3.md",
+    "PicosCTF/2019/Actividad 15/asm1.md",
+    "PicosCTF/2019/Actividad 15/asm2.md",
+    "PicosCTF/2019/Actividad 15",
     "Untitled.md",
     "PicosCTF/2019/Reversing",
     "PicosCTF/2019/Cryptografía/Actividad 11/Tapping.md",

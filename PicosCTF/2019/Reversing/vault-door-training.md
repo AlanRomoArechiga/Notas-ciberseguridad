@@ -9,12 +9,14 @@ Your mission is to enter Dr. Evil's laboratory and retrieve the blueprints for h
 ## Solución
 
 ```python()
-
-
+1. Revisamos el código dado.
+2. Observamos que la función checkPassword y obtenemos la bandera.
 ```
+
+
 
 ## Bandera
 
-picoCTF{}
+picoCTF{w4rm1ng_Up_w1tH_jAv4_3808d338b46}
 
 ## Notas adicionales
