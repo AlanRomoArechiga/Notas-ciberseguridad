@@ -24,6 +24,6 @@ tn = (p-1) * (q-1) = 836623060
 
 ## Bandera
 
-picoCTF{}
+picoCTF{wA8_th4t$_ill3aGal..ode01e4bb}
 
 ## Notas adicionales

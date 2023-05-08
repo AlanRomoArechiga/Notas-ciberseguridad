@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "68ebcae1e4476cb4",
+        "id": "30b139bca9f89065",
         "type": "tabs",
         "children": [
           {
-            "id": "3fd7b02dc2478fa6",
+            "id": "9908de93d96777e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2ab5832d55c00461",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicosCTF/2019/Cryptografía/Actividad 11/Tapping.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "4b2413728f885b72",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -98,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicosCTF/2019/Cryptografía/Actividad 11/Tapping.md",
+                "file": "PicosCTF/2019/Cryptografía/Actividad 12/rsa-pop-quiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicosCTF/2019/Cryptografía/Actividad 11/Tapping.md",
+                "file": "PicosCTF/2019/Cryptografía/Actividad 12/rsa-pop-quiz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicosCTF/2019/Cryptografía/Actividad 11/Tapping.md"
+                "file": "PicosCTF/2019/Cryptografía/Actividad 12/rsa-pop-quiz.md"
               }
             }
           }
@@ -159,11 +154,23 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2ab5832d55c00461",
+  "active": "8937d2886a33815f",
   "lastOpenFiles": [
+    "PicosCTF/2019/Cryptografía/Actividad 12/Mini RSA.md",
+    "PicosCTF/2019/Cryptografía/Actividad 12/b00tl3gRSA2.md",
+    "PicosCTF/2019/Reversing/Actividad 15/asm3.md",
     "PicosCTF/Plantilla.md",
-    "PicosCTF/2019/Cryptografía/Actividad 11/Tapping.md",
+    "PicosCTF/2019/Reversing/Actividad 15/asm1.md",
+    "PicosCTF/2019/Reversing/Actividad 15/asm2.md",
+    "PicosCTF/2019/Reversing/vault-door-4.md",
+    "PicosCTF/2019/Reversing/Actividad 15",
+    "PicosCTF/2019/Reversing/vault-door-3.md",
+    "PicosCTF/2019/Reversing/vault-door-1.md",
+    "PicosCTF/2019/Reversing/vault-door-training.md",
+    "Untitled.md",
     "PicosCTF/2019/Cryptografía/Actividad 12/rsa-pop-quiz.md",
+    "PicosCTF/2019/Reversing",
+    "PicosCTF/2019/Cryptografía/Actividad 11/Tapping.md",
     "PicosCTF/2019/Cryptografía/Actividad 11/waves over lambda.md",
     "PicosCTF/2019/Cryptografía/Actividad 11/la cifra de.md",
     "PicosCTF/2019/Cryptografía/Actividad 11/caesar.md",
@@ -181,24 +188,12 @@
     "PicosCTF/2019/Forensic/Parte 3/WebNet0.md",
     "PicosCTF/2019/Forensic/Parte 2/Shark on wire 2.md",
     "PicosCTF/2019/Forensic/Parte 3",
-    "PicosCTF/2019/Forensic/Parte 2/M00nwalk.md",
-    "PicosCTF/2019/Forensic/Parte 2/like1000.md",
-    "PicosCTF/2019/Forensic/Parte 2/C0rrupted.md",
-    "PicosCTF/2019/Forensic/Parte 2/WhitePages.md",
-    "PicosCTF/2019/Forensic/Parte 1/What Lies Within.md",
     "PicosCTF/2019/Forensic/Parte 2",
-    "PicosCTF/2019/Forensic/Parte 1/Extensions.md",
-    "PicosCTF/2019/Forensic/Parte 1/Shark on wire 1.md",
-    "PicosCTF/2019/Forensic/Parte 1/So Meta.md",
-    "PicosCTF/2019/Forensic/Parte 1/Glory of the Garden.md",
-    "Untitled.md",
     "PicosCTF/2019/Forensic/Parte 1",
     "+",
     "PicosCTF/Tarea 4. Participación en picoCTF2023/General-Skills/Pasted image 20230318164840.png",
     "PicosCTF/Tarea 4. Participación en picoCTF2023/Forensics",
-    "PicosCTF/Tarea 4. Participación en picoCTF2023/Cryptography",
     "PicosCTF/Tarea 4. Participación en picoCTF2023/Web-Exploitation/Pasted image 20230318171224.png",
-    "PicosCTF/Tarea 4. Participación en picoCTF2023/Web-Exploitation/Pasted image 20230318170954.png",
-    "PicosCTF/Tarea 4. Participación en picoCTF2023/Web-Exploitation"
+    "PicosCTF/Tarea 4. Participación en picoCTF2023/Web-Exploitation/Pasted image 20230318170954.png"
   ]
 }
