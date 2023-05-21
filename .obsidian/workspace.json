@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicosCTF/Actividad16/Safe Opener 2.md",
+                "file": "PicosCTF/Actividad 17/buffer overflow 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicosCTF/Actividad16/Safe Opener 2.md",
+                "file": "PicosCTF/Actividad 17/buffer overflow 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicosCTF/Actividad16/Safe Opener 2.md",
+                "file": "PicosCTF/Actividad 17/buffer overflow 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicosCTF/Actividad16/Safe Opener 2.md"
+                "file": "PicosCTF/Actividad 17/buffer overflow 1.md"
               }
             }
           }
@@ -156,8 +156,12 @@
   },
   "active": "9a32d0497ffec479",
   "lastOpenFiles": [
+    "PicosCTF/Actividad 17/buffer overflow 0.md",
     "PicosCTF/Plantilla.md",
+    "PicosCTF/Actividad 17/buffer overflow 1.md",
+    "PicosCTF/Actividad 17/basic-file-exploit.md",
     "PicosCTF/Actividad16/Safe Opener 2.md",
+    "PicosCTF/Actividad 17",
     "PicosCTF/Actividad16/GDB Test Drive.md",
     "PicosCTF/Actividad16/Need for speed.md",
     "PicosCTF/Actividad16/reverse_cipher.md",
@@ -183,15 +187,11 @@
     "PicosCTF/Examen2/Pico CTF 2022 - Web/Forbidden Paths.md",
     "PicosCTF/Examen2/Pico CTF 2022 - Web/Search Source.md",
     "PicosCTF/Examen2/Pico CTF 2022 - Web/Local Authority.md",
-    "PicosCTF/Examen2/Pico CTF 2022 - Web/Inspect HTML.md",
-    "PicosCTF/Examen2/Pico CTF 2022 - Web/Includes.md",
-    "PicosCTF/2019/Actividad 15/asm1.md",
     "PicosCTF/Examen2/Pico CTF 2022 - Web",
     "PicosCTF/Examen2",
     "PicosCTF/Actividad 13/2023",
     "PicosCTF/Actividad 13/2022",
     "PicosCTF/Actividad 13/2021/Untitled",
-    "PicosCTF/Actividad 13/2021",
     "PicosCTF/Tarea 4. Participación en picoCTF2023/General-Skills/Pasted image 20230318164840.png",
     "PicosCTF/Tarea 4. Participación en picoCTF2023/Web-Exploitation/Pasted image 20230318171224.png",
     "PicosCTF/Tarea 4. Participación en picoCTF2023/Web-Exploitation/Pasted image 20230318170954.png"
