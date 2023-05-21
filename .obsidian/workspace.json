@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicosCTF/Actividad 18/Stonks.md",
+                "file": "PicosCTF/Examen3/Binary Explotation/Picker IV.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicosCTF/Actividad 18/Stonks.md",
+                "file": "PicosCTF/Examen3/Binary Explotation/Picker IV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicosCTF/Actividad 18/Stonks.md",
+                "file": "PicosCTF/Examen3/Binary Explotation/Picker IV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicosCTF/Actividad 18/Stonks.md"
+                "file": "PicosCTF/Examen3/Binary Explotation/Picker IV.md"
               }
             }
           }
@@ -156,8 +156,29 @@
   },
   "active": "9a32d0497ffec479",
   "lastOpenFiles": [
+    "PicosCTF/Examen3/Binary Explotation/two-sum.md",
+    "PicosCTF/Examen3/Binary Explotation/Picker IV.md",
+    "PicosCTF/Examen3/Binary Explotation/Local Target.md",
+    "PicosCTF/Examen3/Binary Explotation/clutter-overflow.md",
     "PicosCTF/Plantilla.md",
+    "PicosCTF/Examen3/Reversing/GDB baby step 2.md",
+    "PicosCTF/Examen3/Binary Explotation",
+    "PicosCTF/Examen3/Reversing/GDB baby step 1.md",
+    "PicosCTF/Examen3/Reversing/Bit-O-Asm-4.md",
+    "PicosCTF/Examen3/Reversing/Bit-O-Asm-3.md",
+    "PicosCTF/Examen3/Reversing/Bit-O-Asm-2.md",
+    "PicosCTF/Examen3/Reversing/Bit-O-Asm-1.md",
+    "PicosCTF/Examen3/Reversing/ASCII FTW.md",
+    "PicosCTF/Examen3/Crypto/SRA.md",
+    "PicosCTF/Examen3/Reversing",
+    "PicosCTF/Examen3/Crypto/Vigenere.md",
+    "PicosCTF/Examen3/Crypto/transposition-trial.md",
+    "PicosCTF/Examen3/Crypto/Mr-Worldwide.md",
+    "PicosCTF/Examen3/Crypto/Flags.md",
+    "Plantilla.md",
     "PicosCTF/Actividad 18/Stonks.md",
+    "PicosCTF/Examen3/Crypto",
+    "PicosCTF/Examen3",
     "PicosCTF/Actividad 18/flag leak.md",
     "PicosCTF/Actividad 17/buffer overflow 1.md",
     "PicosCTF/Actividad 18",
@@ -167,31 +188,10 @@
     "PicosCTF/Actividad 17",
     "PicosCTF/Actividad 16/GDB Test Drive.md",
     "PicosCTF/Actividad 16/Need for speed.md",
-    "PicosCTF/Actividad 16/reverse_cipher.md",
-    "PicosCTF/Untitled.md",
     "PicosCTF/Actividad 16",
-    "PicosCTF/Examen2/Pico CTF 2022 - Forensic/St3g0...md",
-    "PicosCTF/Examen2/Pico CTF 2022 - Forensic/Redaction gone wrong.md",
-    "PicosCTF/Examen2/Pico CTF 2022 - Forensic/Packets Primer.md",
-    "PicosCTF/Examen2/Pico CTF 2022 - Forensic/Lookey here.md",
-    "PicosCTF/Examen2/Pico CTF 2022 - Forensic/Enhance!.md",
-    "PicosCTF/Examen2/Pico CTF 2021 - Forensic/Wireshark doo dooo do doo...md",
-    "Untitled.md",
     "PicosCTF/Examen2/Pico CTF 2022 - Forensic",
-    "PicosCTF/Examen2/Pico CTF 2021 - Forensic/information.md",
-    "Plantilla.md",
-    "PicosCTF/Examen2/Pico CTF 2022 - Web/SQLLite.md",
     "PicosCTF/Examen2/Pico CTF 2021 - Forensic",
     "PicosCTF/Examen2/Pico CTF 2022 - Web/Untitled",
-    "PicosCTF/Examen2/Pico CTF 2022 - Web/SQL Direct.md",
-    "PicosCTF/Examen2/Pico CTF 2022 - Web/Secrets.md",
-    "PicosCTF/Examen2/Pico CTF 2022 - Web/Roboto Sansitled.md",
-    "PicosCTF/Examen2/Pico CTF 2022 - Web/Power Cookie.md",
-    "PicosCTF/Examen2/Pico CTF 2022 - Web/Forbidden Paths.md",
-    "PicosCTF/Examen2/Pico CTF 2022 - Web",
-    "PicosCTF/Examen2",
-    "PicosCTF/Actividad 13/2023",
-    "PicosCTF/Actividad 13/2022",
     "PicosCTF/Tarea 4. Participación en picoCTF2023/General-Skills/Pasted image 20230318164840.png",
     "PicosCTF/Tarea 4. Participación en picoCTF2023/Web-Exploitation/Pasted image 20230318171224.png",
     "PicosCTF/Tarea 4. Participación en picoCTF2023/Web-Exploitation/Pasted image 20230318170954.png"
