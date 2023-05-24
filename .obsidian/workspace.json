@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicosCTF/Examen3/Binary Explotation/Picker IV.md",
+                "file": "PicosCTF/Examen3/Reversing/GDB baby step 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicosCTF/Examen3/Binary Explotation/Picker IV.md",
+                "file": "PicosCTF/Examen3/Reversing/GDB baby step 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicosCTF/Examen3/Binary Explotation/Picker IV.md",
+                "file": "PicosCTF/Examen3/Reversing/GDB baby step 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicosCTF/Examen3/Binary Explotation/Picker IV.md"
+                "file": "PicosCTF/Examen3/Reversing/GDB baby step 2.md"
               }
             }
           }
@@ -156,25 +156,25 @@
   },
   "active": "9a32d0497ffec479",
   "lastOpenFiles": [
-    "PicosCTF/Examen3/Binary Explotation/two-sum.md",
-    "PicosCTF/Examen3/Binary Explotation/Picker IV.md",
-    "PicosCTF/Examen3/Binary Explotation/Local Target.md",
     "PicosCTF/Examen3/Binary Explotation/clutter-overflow.md",
-    "PicosCTF/Plantilla.md",
+    "PicosCTF/Examen3/Binary Explotation/Local Target.md",
+    "PicosCTF/Examen3/Binary Explotation/Picker IV.md",
+    "PicosCTF/Examen3/Binary Explotation/two-sum.md",
+    "PicosCTF/Examen3/Crypto/Mr-Worldwide.md",
+    "PicosCTF/Examen3/Crypto/SRA.md",
+    "PicosCTF/Examen3/Crypto/transposition-trial.md",
+    "PicosCTF/Examen3/Crypto/Vigenere.md",
     "PicosCTF/Examen3/Reversing/GDB baby step 2.md",
-    "PicosCTF/Examen3/Binary Explotation",
     "PicosCTF/Examen3/Reversing/GDB baby step 1.md",
     "PicosCTF/Examen3/Reversing/Bit-O-Asm-4.md",
     "PicosCTF/Examen3/Reversing/Bit-O-Asm-3.md",
     "PicosCTF/Examen3/Reversing/Bit-O-Asm-2.md",
     "PicosCTF/Examen3/Reversing/Bit-O-Asm-1.md",
     "PicosCTF/Examen3/Reversing/ASCII FTW.md",
-    "PicosCTF/Examen3/Crypto/SRA.md",
-    "PicosCTF/Examen3/Reversing",
-    "PicosCTF/Examen3/Crypto/Vigenere.md",
-    "PicosCTF/Examen3/Crypto/transposition-trial.md",
-    "PicosCTF/Examen3/Crypto/Mr-Worldwide.md",
     "PicosCTF/Examen3/Crypto/Flags.md",
+    "PicosCTF/Plantilla.md",
+    "PicosCTF/Examen3/Binary Explotation",
+    "PicosCTF/Examen3/Reversing",
     "Plantilla.md",
     "PicosCTF/Actividad 18/Stonks.md",
     "PicosCTF/Examen3/Crypto",
